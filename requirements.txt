@@ -1,0 +1,2 @@
+echo "Flask==3.0.3" > requirements.txt
+echo "mysql-connector-python==9.0.0" >> requirements.txt
